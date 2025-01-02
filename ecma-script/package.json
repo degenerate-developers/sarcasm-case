@@ -1,0 +1,33 @@
+{
+  "name": "@degenerate-developers/sarcasm-case",
+  "version": "0.0.133641968",
+  "description": "Silence all arguments about; camel, kebab, shout, etc cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "undefined",
+    "ts-build": "tsc --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/degenerate-developers/sarcasm-case.git"
+  },
+  "keywords": [
+    "bad-ideas"
+  ],
+  "author": "S0AndS0",
+  "license": "SEE LICENSE IN REPOSITORY",
+  "bugs": {
+    "url": "https://github.com/degenerate-developers/sarcasm-case/issues"
+  },
+  "homepage": "https://github.com/degenerate-developers/sarcasm-case#readme",
+  "devDependencies": {
+    "@types/mocha": "10.0.1",
+    "@types/node": "18.11.17",
+    "@typescript-eslint/eslint-plugin": "5.47.0",
+    "@typescript-eslint/parser": "5.47.0",
+    "chai": "4.3.7",
+    "eslint": "8.30.0",
+    "mocha": "10.2.0",
+    "typescript": "4.9.4"
+  }
+}
